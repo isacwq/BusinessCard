@@ -6,4 +6,6 @@
     <string name="label_phone">Telefone</string>
     <string name="label_company">Empresa</string>
     <string name="confirm">Confirmar</string>
+    <string name="add_card_success">Sucesso</string>
+    <string name="label_share">Compartilhar</string>
 </resources>
